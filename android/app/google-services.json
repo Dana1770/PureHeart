@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394753527646",
+    "project_id": "pure-heart-41443",
+    "storage_bucket": "pure-heart-41443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394753527646:android:82da91fa5b66dea29389cf",
+        "android_client_info": {
+          "package_name": "com.example.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGPXeVgSK2JmpErMLpfNasSO_yJJEyDoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
